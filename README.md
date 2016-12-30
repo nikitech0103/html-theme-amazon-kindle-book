@@ -1,4 +1,4 @@
-<p>As you know, a perfect landing page helps you to provide the most convenient way to introduce your product in the global market. It also helps the consumers to understand to the point information about your service or brand. And for getting the best out of a landing page, the HTML theme is the perfect option to choose. </p>
+<p>As you know, a perfect landing page helps you to provide the most convenient way to introduce your product in the global market. It also helps the consumers to understand to the point information about your service or brand. And for getting the best out of a <a href="https://blog.kissmetrics.com/beginners-guide-to-landing-pages/">landing page</a>, the HTML theme is the perfect option to choose. </p>
 
 <p>The ‘Amazon Kindle’ is a specially designed HTML template for the books publishing in kindle form. It makes possible to introduce your book in the most significant way to get the best sales rate and increase your popularity. </p>
 
@@ -40,7 +40,7 @@
 </li>
 </ul>
 
-<p>Why wait? If you are ready with your book and want a best platform to launch it on the world market, then get this top class HTML template ‘Amazon Kindle’ to sell out the books and be on the bestselling book’s list.</p>
+<p>Why wait? If you are ready with your book and want a best platform to launch it on the world market, then get this top class HTML template ‘Amazon Kindle’ to sell out the books and be on the <a href="https://en.wikipedia.org/wiki/List_of_best-selling_books">bestselling book’s list</a>.</p>
 
 <p>Good Luck!</p>
 
